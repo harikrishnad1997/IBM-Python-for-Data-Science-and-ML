@@ -1,0 +1,10 @@
+Module 1 - Python Basics
+o	Your first program
+o	Types
+o	Expressions and Variables
+o	String Operations
+
+Key Concepts
+Demonstrate an understanding of types in python by converting/casting data types: strings, floats, integers.
+Interpret variables and solve expressions by applying mathematical operations.
+Describe how to manipulate strings by using a variety of methods and operations.
